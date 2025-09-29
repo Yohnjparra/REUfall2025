@@ -5,7 +5,7 @@ author: "Yohn Jairo Parra, Research Faculty Mentor"
 date: "`r Sys.Date()`"
 output:
   html_document:
-    css: reu_styles.css
+    css: reu_styles.css 
     toc: true
     toc_float: true
 ---
@@ -56,7 +56,7 @@ Marcus will develop a computer vision application that classifies a photographed
 
 **Research Interest:** Question Answering with Deep Learning  (Group 2)
 
-Thomas will develop an intelligent question-answering application that processes the European Union (EU) Taxonomy for sustainable activities to respond to user queries on sustainable finance. The system will extract and structure regulatory concepts from the EU Taxonomy, enabling automated, evidence-based answers to finance and sustainability questions..
+Thomas will develop an intelligent question-answering application that processes the European Union (EU) Taxonomy for sustainable activities to respond to user queries on sustainable finance. The system will extract and structure regulatory concepts from the EU Taxonomy, enabling automated, evidence-based answers to finance and sustainability questions.
 
 **Email:** seth2.thomas@famu.edu
 </div>
@@ -65,7 +65,7 @@ Thomas will develop an intelligent question-answering application that processes
 
 ---
 
-#### Sydney Jhonson
+#### Sydney Johnson
 
 <div class="student-card">
 ![Sydney Jhonson](images/sydney.jpeg){width="150px" height="150px" style="border-radius: 50%; float: left; margin-right: 20px; object-fit: cover; object-position: 50% 20%;"}
@@ -90,13 +90,27 @@ Sydney will develop a computer vision application that classifies a photographed
 **Major:** Computer Information Systems
 **Year:** Junior 
 
-**Research Interest:** Deep Learning Applications in Culinary Context   (Group 1)
+**Research Interest:** Question Answering with Deep Learning   (Group 1)
 
 Morgan will develop a computer vision application that classifies a photographed food item and returns the predicted label with an associated confidence score. This tool supports reliable, on-device food recognition.
 
-**Email:** sydney8.johnson@famu.edu
+**Email:** massai1.morgan@famu.edu
 </div>
 
+#### Breosha Young
+
+<div class="student-card">
+![Breosha Young](images/){width="150px" height="150px" style="border-radius: 50%; float: left; margin-right: 20px; object-fit: cover; object-position: 50% 20%;"}
+
+**Major:** Computer Information Systems
+**Year:** Junior 
+
+**Research Interest:** Deep Learning Applications in Culinary Context   (Group 2)
+
+Breosha will develop an intelligent question-answering application that processes the European Union (EU) Taxonomy for sustainable activities to respond to user queries on sustainable finance. The system will extract and structure regulatory concepts from the EU Taxonomy, enabling automated, evidence-based answers to finance and sustainability questions.
+
+**Email:** breosha1.young@famu.edu
+</div>
 
 # Weekly Milestones
 
@@ -124,6 +138,17 @@ Morgan will develop a computer vision application that classifies a photographed
 
 ::: {.deliverable-box}
 **Deliverable:** Written summary of literature review findings (2-3 pages)
+Download the following materials:
+### Datasets
+
+- [Dataset Group 1 (Word Document)](Dataset_Group1.docx)
+- [Dataset Group 2 (Word Document)](Dataset_Group2.docx)
+
+### Jupyter Notebooks
+
+- [Milestone 1 - Group 1 Dataset](Milestone1_Group1_Dataset.ipynb)
+- [Milestone 1 - Group 2 Dataset](Milestone_1_Group2.ipynb)
+
 :::
 
 ---
